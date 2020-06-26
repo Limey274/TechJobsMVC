@@ -10,4 +10,6 @@
     <Folder Include="Views\List\" />
     <Folder Include="Views\Search\" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4lib_4bootstrap_4dist_4css_4bootstrap_1min_1css_1map__JsonSchema="" /></VisualStudio></ProjectExtensions>
 </Project>
